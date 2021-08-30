@@ -111,7 +111,7 @@
 		"retext-emoji": "^7.0.2",
 		"retext-english": "^3.0.4",
 		"retext-equality": "^5.7.0",
-		"retext-indefinite-article": "^2.0.2",
+		"retext-indefinite-article": "^3.1.0",
 		"retext-passive": "^3.0.0",
 		"retext-profanities": "^6.1.0",
 		"retext-quotes": "^4.0.0",
